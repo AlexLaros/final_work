@@ -1,1 +1,1 @@
-Данный репозиторий хранит в себе Итогувую Работу - программа "Записная Книжка", файл "notebook.py".
+This repository stores the Final Work - the "Notebook" program, the "notebook.py" file.
